@@ -6,7 +6,7 @@ Welcome to my portfolio, where I display a selection of my data science projects
 - [Machine Learning](#machine-learning)
 - [Data Visualization](#data-visualization)
 - [Database Management](#database-management)
-- [DevOps]
+- [DevOps](#devops)
 
 ## Data Science (Scraping, Cleaning, Analysis, Visualization, Modelling)
 

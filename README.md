@@ -3,7 +3,7 @@ Welcome to my portfolio, where I display a selection of my data science projects
 
 ## Table of Contents
 - [Data Science (Scraping, Cleaning, Analysis, Visualization, Modelling)](#data-science-scraping-cleaning-analysis-visualization-modelling)
-- [Machine Learning]
+- [Machine Learning](#machine-learning)
 - [Data Visualization]
 - [Database Management]
 - [DevOps]

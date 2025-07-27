@@ -2,11 +2,11 @@
 Welcome to my portfolio, where I display a selection of my data science projects.
 
 ## Table of Contents
-- [Data Science (Scraping, Cleaning, Analysis, Visualization, Modelling)]
-- [Machine Learning]
-- [Data Visualization]
-- [Database Management]
-- [DevOps]
+- [Data Science (Scraping, Cleaning, Analysis, Visualization, Modelling)](https://github.com/ValerieLuethi/Portfolio/edit/main/README.md#data-science-scraping-cleaning-analysis-visualization-modelling)
+- [Machine Learning](https://github.com/ValerieLuethi/Portfolio/edit/main/README.md#machine-learning)
+- [Data Visualization](https://github.com/ValerieLuethi/Portfolio/edit/main/README.md#data-visualization)
+- [Database Management](https://github.com/ValerieLuethi/Portfolio/edit/main/README.md#database-management)
+- [DevOps](https://github.com/ValerieLuethi/Portfolio/edit/main/README.md#devops)
 
 ## Data Science (Scraping, Cleaning, Analysis, Visualization, Modelling)
 

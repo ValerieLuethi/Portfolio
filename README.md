@@ -16,7 +16,10 @@ Welcome to my portfolio, where I display a selection of my data science projects
 | Analysis of the Relationship between Mortality Rates and Heat Days in Zurich   |  February 2025  | R, tidyverse, dplyr, ggplot2  |                     |
 
 ## Machine Learning
-- Prediction of Online-Shoppers Purchase Intention (R)
+
+| Project Link                                                                   | Completion Date | Tools                         | Project Description |
+| -------------------------------------------------------------------------------| --------------- | ------------------------------|---------------------|
+| <ul><li>[Repo: Prediction of Online-Shoppers Purchase Intention](https://github.com/ValerieLuethi/Online-Shoppers-Purchase-Intention/tree/main)</li><li>[Full Report in HTML](https://valerieluethi.github.io/Online-Shoppers-Purchase-Intention/OnlineShoppers_Purchase_Intention.html)</li></ul>                       |  June 2025     | R, dplyr, tidyr, ggplot2, caret, nnet  |  Exploratory Graphical Analysis with ggplot2. Application and evaluation of different machine learning models (LM, GAM, GLM, SVM, ANN) to detect and predict customers behavior patterns from e-commerce data.                 |
 
 ## Data Visualization
 - Tourism Dashboard (Tableau)

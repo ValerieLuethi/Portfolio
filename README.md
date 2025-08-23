@@ -28,10 +28,13 @@ Welcome to my portfolio, where I display a selection of my data science projects
 | [Swiss Tourism Accommodation Dashboard](https://public.tableau.com/views/SwissTourismAccommodationDashboard/Dashboard_final?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)                             |  January 2025     | Bash (Shell), Tableau |   Using Tourism Data from the Swiss Federal Statistical Office a Tableau Dashbaord was created to answer the following questions: <ul><li>How does the number of arrivals and nights spent in Switzerland and its municipalities change over time?</li><li>Which municipalities in Switzerland are more or less visited in comparison to other municipalities?</li><li>What is the country of origin of the visiting tourists and how does that change over time?</li></ul> The data was pre-processed using shell commands. |
 
 ## Database Management
-- Book Recommender System (MySQL)
+
+| Project Description                                                                 | Completion Date | Tools  |
+| -------------------------------------------------------------------------------| --------------- | ------------------------------|
+| <b>Book Recommender System</b><br> in a team of three students built a relational database for non-personalized book recommendations by integrating Goodreads and Book-Crossing datasets; designed the ER model & MySQL schema, implemented ETL/ELT pipelines, enforced roles/permissions, set up backup/restore, and delivered interactive Metabase dashboards. *(Database is private due to course policies)* |  June 2025     | Bash (Shell) for ETL/ELT, MySQL & MySQL Workbench, Metabase (Visualization) |
 
 ## DevOps
 
 | Project Description                                                                 | Completion Date | Tools                         |
 | -------------------------------------------------------------------------------| --------------- | ------------------------------|
-| Developed three fully functional games (Hangman, Battleship, UNO) in a team of five, applying SCRUM methodology and best coding practices with collaborative version control. Successfully deployed all games to the Cloud using Docker containers. <br> *(Code repository is private due to course policies)*                             |  May 2025    | Python, Git, GitHub, Pylint, MyPy, Docker |
+| <b>Development and deployment of three fully functional games (Hangman, Battleship, UNO)</b><br>in a team of five students, applying SCRUM methodology and best coding practices with collaborative version control. Successfully deployed all games to the Cloud using Docker containers. <br> *(Code repository is private due to course policies)*                             |  May 2025    | Python, Git, GitHub, Pylint, MyPy, Docker |

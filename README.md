@@ -31,5 +31,7 @@ Welcome to my portfolio, where I display a selection of my data science projects
 - Book Recommender System (MySQL)
 
 ## DevOps
-- **Programming Three Games (Hangman, Battleship, UNO)** (Python, Git, GitHub, Pylint, MyPy, Docker)
-Developed three fully functional games as part of a team of five, focusing on best coding practices, collaborative version control, and cloud deployment using Docker containers. *(Code repository is private due to course policies)*
+
+| Project Description                                                                 | Completion Date | Tools                         |
+| -------------------------------------------------------------------------------| --------------- | ------------------------------|
+| Developed three fully functional games (Hangman, Battleship, UNO) in a team of five, applying SCRUM methodology and best coding practices with collaborative version control. Successfully deployed all games to the Cloud using Docker containers. <br> *(Code repository is private due to course policies)*                             |  May 2025    | Python, Git, GitHub, Pylint, MyPy, Docker |

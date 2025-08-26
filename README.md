@@ -13,7 +13,6 @@ Welcome to my portfolio, where I display a selection of my data science projects
 | Project Link                                                                   | Completion Date | Tools                         | Project Description |
 | -------------------------------------------------------------------------------| --------------- | ------------------------------|---------------------|
 | [Webscraper for Pizza Prices in Major Swiss Cities](https://github.com/ValerieLuethi/CIP_FS25_201)                              |  April 2025     | Python, pandas, BeautifulSoup, seaborn, matplotlib |  In this group project, we scraped Pizza Margherita prices from an online delivery service across ten major Swiss cities, then analysed and visualised the data. We focused on three questions: <ul><li>which cities have the highest and lowest prices?</li><li>which factors influence restaurant ratings?</li><li>how do pizza prices relate to regional median income through a “Pizza Margherita Index”?</li></ul>                 |
-| Analysis of the Relationship between Mortality Rates and Heat Days in Zurich   |  February 2025  | R, tidyverse, dplyr, ggplot2  |                     |
 
 ## Machine Learning
 
